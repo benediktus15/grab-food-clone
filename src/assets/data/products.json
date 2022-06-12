@@ -1,0 +1,546 @@
+[
+  {
+    "categoryId": 0,
+    "category": "Today's Offer",
+    "menu": [
+      {
+        "menuId": 1,
+        "name": "Chicken Pop Barbeque & Veggie - Rice Box",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "1.jpeg"
+      },
+      {
+        "menuId": 2,
+        "name": "Chicken Pop Teriyaki & Veggie - Rice Box",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "2.jpeg"
+      },
+      {
+        "menuId": 3,
+        "name": "Chicken Pop Salted Egg & Veggie - Rice Box",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "3.jpeg"
+      },
+      {
+        "menuId": 4,
+        "name": "Chicken Pop Black Papper & Veggie - Rice Box",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "4.jpeg"
+      }
+    ]
+  },
+  {
+    "categoryId": 1,
+    "category": "WAIKI Rice Box",
+    "menu": [
+      {
+        "menuId": 5,
+        "name": "Chicken Pop Barbeque & Veggie - Rice Box",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "1.jpeg"
+      },
+      {
+        "menuId": 6,
+        "name": "Chicken Pop Teriyaki & Veggie - Rice Box",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "2.jpeg"
+      },
+      {
+        "menuId": 7,
+        "name": "Chicken Pop Salted Egg & Veggie - Rice Box",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "3.jpeg"
+      },
+      {
+        "menuId": 8,
+        "name": "Chicken Pop Black Papper & Veggie - Rice Box",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "4.jpeg"
+      }
+    ]
+  },
+  {
+    "categoryId": 2,
+    "category": "Aigo",
+    "menu": [
+      {
+        "menuId": 9,
+        "name": "Seo Goo Lalapan Ikan Laut Bakar/Goreng (Banyak Pilihan Ikan)",
+        "description": "Ikan Laut+Nasi dibakar dengan bumbu Bikin Doyan",
+        "price": 0,
+        "available": true,
+        "image": "9.jpeg"
+      },
+      {
+        "menuId": 10,
+        "name": "Seo Goo Udang Saos Telur asin",
+        "description": "Nasi Putih + Udang goreng saos telur asin",
+        "price": 0,
+        "available": true,
+        "image": "10.jpeg"
+      },
+      {
+        "menuId": 11,
+        "name": "Nasi Goreng Do Yan Seafood",
+        "description": "Nasi goreng seafood yang bikin doyan dengan isian telur, cumi, udang dan masih bisa ditambah dengan toping",
+        "price": 0,
+        "available": true,
+        "image": "11.jpeg"
+      },
+      {
+        "menuId": 12,
+        "name": "Seo Goo Cumi Saus Telur Asin",
+        "description": "Nasi putih + Cumi goreng tepung saus telur asin",
+        "price": 0,
+        "available": true,
+        "image": "12.jpeg"
+      },
+      {
+        "menuId": 13,
+        "name": "Seo Goo Cumi Crispy (Banyak Pilihan Saos)",
+        "description": "Nasi Kotak Cumi (Calmari Rice Box)",
+        "price": 0,
+        "available": true,
+        "image": "13.jpeg"
+      },
+      {
+        "menuId": 14,
+        "name": "Seo Goo Udang (Banyak Pilihan Saos)",
+        "description": "Nasi Kotak Udang (Prawns Rice Box)",
+        "price": 0,
+        "available": true,
+        "image": "14.jpeg"
+      },
+      {
+        "menuId": 15,
+        "name": "Seo Goo Lalapan Ikan Nila Bakar/Goreng",
+        "description": "Nasi Kotak Ikan Bakar (Grilled Fish Rice Box)",
+        "price": 0,
+        "available": true,
+        "image": "15.jpeg"
+      }
+    ]
+  },
+  {
+    "categoryId": 3,
+    "category": "Chingu",
+    "menu": [
+      {
+        "menuId": 16,
+        "name": "Oppa Cumi ( Cumi Utuh Crispy)",
+        "description": "Per Tusuk - Cumi Utuh Goreng Krispi korea (Crispy Fried Squid)",
+        "price": 0,
+        "available": true,
+        "image": "16.jpeg"
+      },
+      {
+        "menuId": 17,
+        "name": "Unnie Cumi Crispy",
+        "description": "Cumi Goreng Krispi (Crispy Fried Calamari)",
+        "price": 0,
+        "available": true,
+        "image": "17.jpeg"
+      },
+      {
+        "menuId": 18,
+        "name": "Oppa Cumi Bae Sah ( Cumi dan kerang Masak Saos - 2 Porsi)",
+        "description": "Cumi Masak Saos (Cooked Calamari With Sauce)",
+        "price": 0,
+        "available": true,
+        "image": "18.jpeg"
+      },
+      {
+        "menuId": 19,
+        "name": "Aegi Kepiting (Crispy Baby Kepiting Rajungan)",
+        "description": "Kepiting Muda Goreng Krispi (Crispy Fried Baby Crab)",
+        "price": 0,
+        "available": true,
+        "image": "19.jpeg"
+      },
+      {
+        "menuId": 20,
+        "name": "Oppa Cham Po Ryeo (Crispy Gurita, Cumi & Udang)",
+        "description": "Goreng Krispi Campur Gurita, Udang, & Cumi (Octopus, ..)",
+        "price": 0,
+        "available": true,
+        "image": "20.jpeg"
+      },
+      {
+        "menuId": 21,
+        "name": "Oppa Gurita Crispy",
+        "description": "Gurita Goreng Krispi (Crispy Fried Octopus)",
+        "price": 0,
+        "available": true,
+        "image": "21.jpeg"
+      },
+      {
+        "menuId": 22,
+        "name": "Oppa Gurita Bae Sah ( Gurita dan kerang Masak Saos - 2 Porsi)",
+        "description": "Gurita Masak Saos (Cooked Octopus With Sauce)",
+        "price": 0,
+        "available": true,
+        "image": "22.jpeg"
+      }
+    ]
+  },
+  {
+    "categoryId": 4,
+    "category": "Seerameon Ikan",
+    "menu": [
+      {
+        "menuId": 23,
+        "name": "Ikan Kerapu Siram Saos",
+        "description": "Ikan Kerapu Siram Saos Asam Manis / telur asin",
+        "price": 0,
+        "available": true,
+        "image": "23.jpeg"
+      },
+      {
+        "menuId": 24,
+        "name": "Ikan Kakap Siram Saos",
+        "description": "Ikan Kakap Siram Saos Asam Manis / telur asin",
+        "price": 0,
+        "available": true,
+        "image": "24.jpeg"
+      }
+    ]
+  },
+  {
+    "categoryId": 5,
+    "category": "Samjang Gami (Extra Pedas)",
+    "menu": [
+      {
+        "menuId": 25,
+        "name": "Sambal Gami Terong & Kol",
+        "description": "Sambal gami kol dan terong dimasak diatas cobek tanah liat",
+        "price": 0,
+        "available": true,
+        "image": "25.jpeg"
+      },
+      {
+        "menuId": 26,
+        "name": "Sambal Gami Baby Crab + Free Nasi",
+        "description": "Sambal gami Baby Crab dimasak diatas cobek tanah liat",
+        "price": 0,
+        "available": true,
+        "image": "26.jpeg"
+      },
+      {
+        "menuId": 27,
+        "name": "Sambal Gami Ikan Laut + Free Nasi",
+        "description": "Sambal gami Ikan Laut dimasak diatas cobek tanah liat",
+        "price": 0,
+        "available": true,
+        "image": "27.jpeg"
+      },
+      {
+        "menuId": 28,
+        "name": "Sambal Gami Kerang + Free Nasi",
+        "description": "Sambal gami kerang dimasak diatas cobek tanah liat",
+        "price": 0,
+        "available": true,
+        "image": "28.jpeg"
+      },
+      {
+        "menuId": 29,
+        "name": "Sambal Gami Cumi + free nasi",
+        "description": "Sambal gami cumi dimasak diatas cobek tanah liat",
+        "price": 0,
+        "available": true,
+        "image": "29.jpeg"
+      },
+      {
+        "menuId": 30,
+        "name": "Sambal Gami Udang + free nasi",
+        "description": "Sambal gami udang dimasak diatas cobek tanah liat",
+        "price": 0,
+        "available": true,
+        "image": "30.jpeg"
+      },
+      {
+        "menuId": 31,
+        "name": "Sambal Gami Gurita + Free Nasi",
+        "description": "Sambal gami gurita dimasak diatas cobek tanah liat",
+        "price": 0,
+        "available": true,
+        "image": "31.jpeg"
+      },
+      {
+        "menuId": 32,
+        "name": "Sambal Gami Ikan Nila + Free Nasi",
+        "description": "Sambal gami Ikan Nila dimasak diatas cobek tanah liat",
+        "price": 0,
+        "available": true,
+        "image": "32.jpeg"
+      }
+    ]
+  },
+  {
+    "categoryId": 6,
+    "category": "Omo",
+    "menu": [
+      {
+        "menuId": 33,
+        "name": "Omo Kerang Hijau Bakar",
+        "description": "Kerang hijau bakar",
+        "price": 0,
+        "available": true,
+        "image": "33.jpeg"
+      },
+      {
+        "menuId": 34,
+        "name": "Omo Cumi Sosis (3 tusuk)",
+        "description": "Cumi Bakar Madu Sosis (Honey Grilled Calamari With Sau..)",
+        "price": 0,
+        "available": true,
+        "image": "34.jpeg"
+      },
+      {
+        "menuId": 35,
+        "name": "Omo Udang Bakar (3 tusuk)",
+        "description": "Udang Bakar Madu (Honey Grilled Prawns)",
+        "price": 0,
+        "available": true,
+        "image": "35.jpeg"
+      },
+      {
+        "menuId": 36,
+        "name": "Omo Bujangnim Ikan (personal - banyak pilihan Ikan)",
+        "description": "Ikan Bakar Madu Ukuran S - Untuk Sendirian",
+        "price": 0,
+        "available": true,
+        "image": "36.jpeg"
+      },
+      {
+        "menuId": 37,
+        "name": "Omo Gurita Bakar (2 tusuk)",
+        "description": "Per tusuk 2-3 ekor - Gurita Bakar Madu (Honey Grilled Octopus)",
+        "price": 0,
+        "available": true,
+        "image": "37.jpeg"
+      },
+      {
+        "menuId": 38,
+        "name": "Omo Lobster Jumbo",
+        "description": "Lobster dengan berat 400-550gr di Bakar dengan bumbu spesial madu(Honey Grilled Lobster)",
+        "price": 0,
+        "available": true,
+        "image": "38.jpeg"
+      },
+      {
+        "menuId": 39,
+        "name": "Omo Cumi Isi",
+        "description": "Per Tusuk - Cumi Bakar Madu (Honey Grilled Squid)",
+        "price": 0,
+        "available": true,
+        "image": "39.jpeg"
+      },
+      {
+        "menuId": 40,
+        "name": "Omo Sajangnim Ikan Bakar ( 3-4 porsi)",
+        "description": "Ikan Bakar Madu Ukuran L - Untuk 3-4 Orang (Honey..",
+        "price": 0,
+        "available": true,
+        "image": "40.jpeg"
+      },
+      {
+        "menuId": 41,
+        "name": "Omo Isanim Ikan Bakar (2-3 porsi)",
+        "description": "Ikan Bakar Madu Ukuran M - Untuk 2-3 Orang (Honey..)",
+        "price": 0,
+        "available": true,
+        "image": "41.jpeg"
+      },
+      {
+        "menuId": 42,
+        "name": "Omo Sajangnim Lobster bakar",
+        "description": "1 ekor Lobster Kipas Bakar (Honey Grilled Slipper Lobster)",
+        "price": 0,
+        "available": true,
+        "image": "42.jpeg"
+      }
+    ]
+  },
+  {
+    "categoryId": 7,
+    "category": "Saranghaeyo",
+    "menu": [
+      {
+        "menuId": 43,
+        "name": "Massigetda (3mix kerang, kepiting - 2 Porsi)",
+        "description": "3 Kerang Campur + Kepiting (Cooked Seafood -)",
+        "price": 0,
+        "available": true,
+        "image": "43.jpeg"
+      },
+      {
+        "menuId": 44,
+        "name": "Yaebo (3mix kerang, kepiting, cumi - 3 porsi)",
+        "description": "3 Kerang Campur + Kepiting + Cumi (Cooked Seafood -)",
+        "price": 0,
+        "available": true,
+        "image": "44.jpeg"
+      },
+      {
+        "menuId": 45,
+        "name": "Yeppo (3 mix kerang- 2 porsi )",
+        "description": "3 Kerang Campur (Cooked Seafood - 3 Mix Of Scallops ...",
+        "price": 0,
+        "available": true,
+        "image": "45.jpeg"
+      },
+      {
+        "menuId": 46,
+        "name": "Saranghaeyo (3mix kerang, lobster, kepiting, cumi, gurita - 3-4 Porsi)",
+        "description": "3 Kerang Campur + 1-2 Lobster Kipas + Kepiting + Cumi + Gurita",
+        "price": 0,
+        "available": true,
+        "image": "46.jpeg"
+      },
+      {
+        "menuId": 47,
+        "name": "Bae Go Pa (3mix kerang, lobster, kepiting, cumi, gurita , 4-5 porsi)",
+        "description": "3 Kerang Campur + 2-3 Lobster Kipas atau 1 ekor lobster 400gr + 2 Kepiting + Cumi",
+        "price": 0,
+        "available": true,
+        "image": "47.jpeg"
+      }
+    ]
+  },
+  {
+    "categoryId": 8,
+    "category": "Chaeso",
+    "menu": [
+      {
+        "menuId": 48,
+        "name": "Cah Kangkung",
+        "description": "Cah Kangkung",
+        "price": 0,
+        "available": true,
+        "image": "48.jpeg"
+      },
+      {
+        "menuId": 49,
+        "name": "Pakcoy Saos Tiram",
+        "description": "Pakcoy Saos Tiram",
+        "price": 0,
+        "available": true,
+        "image": "49.jpeg"
+      }
+    ]
+  },
+  {
+    "categoryId": 9,
+    "category": "Drink (Ice/Hot)",
+    "menu": [
+      {
+        "menuId": 50,
+        "name": "Coconut Yakult",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "50.jpeg"
+      },
+      {
+        "menuId": 51,
+        "name": "Lemon Tea (Hot / Ice)",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "51.jpeg"
+      },
+      {
+        "menuId": 52,
+        "name": "Tropical Mojito",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "52.jpeg"
+      },
+      {
+        "menuId": 53,
+        "name": "Milo Creamy (Hot/Ice)",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "53.jpeg"
+      },
+      {
+        "menuId": 54,
+        "name": "Orange Mojito",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "54.jpeg"
+      },
+      {
+        "menuId": 55,
+        "name": "Mango Mojito",
+        "description": "",
+        "price": 0,
+        "available": true,
+        "image": "55.jpeg"
+      }
+    ]
+  },
+  {
+    "categoryId": 10,
+    "category": "Addon",
+    "menu": [
+      {
+        "menuId": 56,
+        "name": "Seo Goo",
+        "description": "Nasi putih punel pulen",
+        "price": 0,
+        "available": true,
+        "image": "59.jpeg"
+      }
+    ]
+  },
+  {
+    "categoryId": 11,
+    "category": "Sea Monster",
+    "menu": [
+      {
+        "menuId": 57,
+        "name": "Ikan kakap Giant Bakar + free 4 Nasi putih",
+        "description": "Berat ikan 1200gr-1500gr di bakar ala doyan",
+        "price": 0,
+        "available": true,
+        "image": "57.jpeg"
+      },
+      {
+        "menuId": 58,
+        "name": "Giant Squid Crispy",
+        "description": "1 ekor cumi utuh berat 400-700gr di goreng crispy ala Doyan",
+        "price": 0,
+        "available": true,
+        "image": "58.jpeg"
+      },
+      {
+        "menuId": 59,
+        "name": "Giant Lobster Bakar + free 2 nasi putih",
+        "description": "berat 1200gr Lobster yang dibakar dengan bumbu yang bikin doyan",
+        "price": 0,
+        "available": true,
+        "image": "59.jpeg"
+      }
+    ]
+  }
+]

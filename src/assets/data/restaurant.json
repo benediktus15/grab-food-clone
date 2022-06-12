@@ -1,0 +1,24 @@
+{
+  "restaurantId": 1,
+  "name": "Do Yan Seafood - Sumbersekar",
+  "category": "Seafood, Snack",
+  "rating": "4.5",
+  "distance": "4.1 km",
+  "openingHours": "Today  Closed",
+  "closed": true,
+  "preferredMerchant": true,
+  "promotions": [
+    {
+      "title": "10% off WAIKI Rice Box",
+      "description": "Available at selected outlets; Valid 2022-06-02 11:30 to 2022-06-12 23:30"
+    },
+    {
+      "title": "Rp2.000 off delivery fee with Rp30.000 min. order",
+      "description": "Available at selected outlets; Minimum order of Rp30.000; Discount capped at Rp2.000; Valid 2022-06-02 11:30 to 2022-06-12 23:30"
+    },
+    {
+      "title": "PASTIDISKONG 20rb | HEMAT35G 35% | HEMAT30G 30%",
+      "description": ""
+    }
+  ]
+}
