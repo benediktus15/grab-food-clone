@@ -1,0 +1,14 @@
+<template>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="20"
+    height="20"
+    viewBox="0 0 16 16"
+  >
+    <g fill="none" fill-rule="evenodd">
+      <path d="M0 0h16v16H0z" />
+      <circle cx="7" cy="7" r="7" stroke="#9A9A9A" transform="translate(1 1)" />
+      <path fill="#9A9A9A" d="M7 4h2v2H7zM7 7h2v5H7z" />
+    </g>
+  </svg>
+</template>
